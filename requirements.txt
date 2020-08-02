@@ -6,7 +6,6 @@ cffi==1.14.0
 chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
-cryptography @ file:///D:/bld/cryptography_1595348964866/work
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
@@ -15,8 +14,6 @@ entrypoints==0.3
 Flask==1.1.2
 Flask-Images==3.0.2
 folium==0.5.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
-importlib-metadata @ file:///D:/bld/importlib-metadata_1593211549301/work
 ipykernel==5.3.4
 ipynb==0.5.1
 ipython==7.16.1
