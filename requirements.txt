@@ -36,9 +36,8 @@ mistune==0.8.4
 nbconvert==5.6.1
 nbformat==5.0.7
 notebook==6.0.3
-numpy @ file:///D:/bld/numpy_1595523080086/work
 packaging==20.4
-pandas @ file:///D:/bld/pandas_1592422196909/work
+pandas
 pandocfilters==1.4.2
 parso==0.7.1
 patsy==0.5.1
@@ -48,7 +47,6 @@ Pillow==7.2.0
 pillowcase==2.0.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 Pygments==2.6.1
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
@@ -61,12 +59,12 @@ pywinpty==0.5.7
 pyzmq==19.0.1
 qtconsole==4.7.5
 QtPy==1.9.0
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+requests 
 scikit-learn==0.23.1
 scipy==1.5.2
 seaborn==0.10.1
 Send2Trash==1.5.0
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+six 
 sklearn==0.0
 statsmodels==0.11.1
 terminado==0.8.3
@@ -75,7 +73,7 @@ threadpoolctl==2.1.0
 toolz==0.10.0
 tornado==6.0.4
 traitlets==4.3.3
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
+urllib3 
 vincent==0.4.4
 wcwidth==0.2.5
 webencodings==0.5.1
