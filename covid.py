@@ -20,7 +20,7 @@ def Home():
 #standard_to = StandardScaler()
 @app.route("/predict", methods=['POST'])
 def predict():
-                                        from ipynb.fs.full.Covid19 import forecastmodel
+                                        from ipynb.fs.defs.Covid19 import forecastmodel
                                         if request.method == 'POST':
                                                     
                                                     State=str(request.form['State'])
