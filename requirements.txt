@@ -41,7 +41,7 @@ pandas
 pandocfilters==1.4.2
 parso==0.7.1
 patsy==0.5.1
-PIL==1.1.7
+PIL
 Pillow==7.2.0
 pillowcase==2.0.0
 prometheus-client==0.8.0
