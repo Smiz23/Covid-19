@@ -41,7 +41,6 @@ pandas
 pandocfilters==1.4.2
 parso==0.7.1
 patsy==0.5.1
-pickleshare==0.7.5
 PIL==1.1.7
 Pillow==7.2.0
 pillowcase==2.0.0
